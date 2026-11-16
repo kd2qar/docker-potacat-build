@@ -6,3 +6,9 @@ to match your architecture and distribution.
 For example, running it on a raspberry pi using debian/buster
 
 wear a helmet, your mileage may vary.
+
+1. Clone this repository
+2. run 'make' to build the image
+3. run 'make run' do create the .deb file in the ./dist folder
+
+
