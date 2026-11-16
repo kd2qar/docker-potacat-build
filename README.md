@@ -1,6 +1,5 @@
 # docker-potacat-build
-Build POTACAT from source for your distribution / architecture inside a docker container
-https://potacat.com/
+Build POTACAT <https://potacat.com/> from source for your distribution / architecture inside a Docker container.
 This loads all the build dependencies inside a docker container and outputs an install file
 to match your architecture and distribution.
 
